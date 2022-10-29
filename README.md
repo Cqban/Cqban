@@ -1,5 +1,6 @@
 
 <img src="https://i.ibb.co/hCkwG8K/ezgif-5-e055743c0e.gif" width="850" height="270" align="center"></img>
+
 # Welcome to my Github Page, I'm Cqban !
 
 About me :
@@ -17,7 +18,7 @@ const Me = {
     Learning : ["Networks", "Pentesting", "Web", "SysAdmin",],
     Interest : ["RE", "Pwn", "Cloud", "Forensic"],
     Project : ["None (For the moment)"],
-    FavouriteDistro: "Kali",
+    FavouriteDistro: "TempleOS",
   },
   Skills: {
     Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster", "and more ..."],
