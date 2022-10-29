@@ -1,5 +1,6 @@
+
+<img src="https://i.ibb.co/hCkwG8K/ezgif-5-e055743c0e.gif" width="850" height="270"></img>
 <p align="center">
-    <img src="https://i.ibb.co/hCkwG8K/ezgif-5-e055743c0e.gif" width="850" height="270"></img>
 # Welcome to my Github Page, I'm Cqban !
 </p
 About me :
