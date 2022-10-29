@@ -1,30 +1,28 @@
 <p align="center">
     <img src="https://i.ibb.co/hCkwG8K/ezgif-5-e055743c0e.gif" width="850" height="270"></img>
-# Welcome to my Github Page ! I'm Dalunacrobate ! &emsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
-
+# Welcome to my Github Page, I'm Cqban !
+</p
 About me :
-- 🚀 French Python developper.
-- 💻 Passionate about Osint, reconnaissance, Intelligence.
-- 🔭 Currently working on <strong>DaProfiler</strong>
-- 🔍 Looking to collaborate on <strong>Osint Projects</strong>
+- 🚩 French Infosec/Cybersecurity Enthusiast.
+- 💻 Passionate about Reconnaissance, Pentesting, Networking.
+- 📖 currently studying in BUT Networks and Telecommunications 
+- 🔍 Looking forward to be a <strong>Pentester</strong>
 
 Contact :
-- ✉️ Mail **daluna_pro@protonmail.ch**
+- ✉️ Mail **cqban_pro@protonmail.me**
 
 ```js
 const Me = {
   Personal: {
-    Learning : ["Network", "Pentesting", "Web", "sysadmin",],
+    Learning : ["Networks", "Pentesting", "Web", "SysAdmin",],
     Interest : ["RE", "Pwn", "Cloud", "Forensic"],
-    Project : ["LaboRT", "0x307845.me", "BitShark"],
-    FavouriteDistro: "TempleOS",
-    WM : "I3"
+    Project : ["None (For the moment)"],
+    FavouriteDistro: "Kali",
   },
   Skills: {
-    Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster" , "and more ..."],
-    Programming : ["C", "JS", "Powershell", "Python", "PHP", "Bash"],
-    Sysadmin : ["active directory", "crontab", "grafana", "stormshield", "Cisco"],
-    Virtualization : ["Docker", "Vmware", "Proxmox", "Hyper V"],
-    Certification : ["CCNA, eJPT"]
+    Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster", "and more ..."],
+    Programming : ["Powershell", "Python", "PHP", "HTML/CSS" "Bash"],
+    Sysadmin : ["Active Directory", "Cisco"],
+    Virtualization : ["Docker", "Vmware/VirtualBox", "Proxmox", "Hyper V"],
   }
 };
