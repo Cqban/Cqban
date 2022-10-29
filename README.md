@@ -1,11 +1,15 @@
 <p align="center">
     <img src="https://i.ibb.co/hCkwG8K/ezgif-5-e055743c0e.gif" width="850" height="270"></img>
-</p>
-<br>
-<p align="center"><strong>You can try to beat my website : <a href="https://0x307845.me">0x307845.me</a></strong>
-</p>
-<br>
-<br>
+# Welcome to my Github Page ! I'm Dalunacrobate ! &emsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+
+About me :
+- 🚀 French Python developper.
+- 💻 Passionate about Osint, reconnaissance, Intelligence.
+- 🔭 Currently working on <strong>DaProfiler</strong>
+- 🔍 Looking to collaborate on <strong>Osint Projects</strong>
+
+Contact :
+- ✉️ Mail **daluna_pro@protonmail.ch**
 
 ```js
 const Me = {
