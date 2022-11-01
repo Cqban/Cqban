@@ -12,7 +12,7 @@ About me :
 Contact :
 - ✉️ Mail **cqban_pro@protonmail.me**
 
-```js
+```py
 const Me = {
   Personal: {
     Learning : ["Networks", "Pentesting", "Web", "SysAdmin",],
@@ -30,5 +30,5 @@ const Me = {
 ```
 Github Stats :
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Cqban&show_icons=true&theme=github_dark" />
-<img align="left" src="https://komarev.com/ghpvc/?username=Cqban&color=green" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Cqban&show_icons=true&theme=github_dark"/>
+<img align="left" src="https://komarev.com/ghpvc/?username=Cqban&color=green"/>
