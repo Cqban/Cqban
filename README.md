@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/hCkwG8K/ezgif-5-e055743c0e.gif" width="850" height="270" align="center"></img>
 
-# Welcome to my Github Page, I'm Cqban !
+# Welcome to my Github Page, I'm Cqban.
 
 About me :
 - 🚩 French Infosec/Cybersecurity Enthusiast.
