@@ -3,13 +3,13 @@
 
 # Welcome to my Github Page, I'm Cqban.
 
-About me :
+### About me :
 - 🚩 French Infosec/Cybersecurity Enthusiast.
 - 💻 Passionate about Reconnaissance, Pentesting, Networking.
 - 📖 currently studying in BUT Networks and Telecommunications 
 - 🔍 Looking forward to be a <strong>Pentester</strong>
 
-Contact :
+### Contact :
 - ✉️ Mail **cqban_pro@protonmail.me**
 
 ```py
@@ -46,7 +46,7 @@ const Me = {
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Github Stats :
+### 📊 Github Stats :
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Cqban&show_icons=true&theme=github_dark"/>
 <img align="left" src="https://komarev.com/ghpvc/?username=Cqban&color=green"/>
