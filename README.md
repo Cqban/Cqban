@@ -1,5 +1,5 @@
 
-<img src="https://pfps.gg/assets/banners/5987-shooting-stars-8-bit.gif align="center"></img>
+<img src="https://pfps.gg/assets/banners/5987-shooting-stars-8-bit.gif" align="center"></img>
 
 # Welcome to my Github Page, I'm Cqban.
 
