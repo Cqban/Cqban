@@ -15,16 +15,16 @@
 ```py
 const Me = {
   Personal: {
-    Learning : ["Networks", "Pentesting", "Web", "SysAdmin",],
-    Interest : ["RE", "Pwn", "Cloud", "Forensic"],
-    Project : ["None (For the moment)"],
-    FavouriteDistro: "TempleOS",
+    Learning : ["Networks", "Programming", "Pentesting", "Web", "SysAdmin",],
+    Interest : ["Pwn", "Cloud", "Forensic", "Cryptography", "Steganography"],
+    Project : ["CqbanCTF"],
+    FavouriteOS: "Kali",
   },
   Skills: {
     Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster", "and more ..."],
-    Programming : ["Powershell", "Python", "PHP", "HTML/CSS" "Bash"],
-    Sysadmin : ["Active Directory", "Cisco"],
-    Virtualization : ["Docker", "Vmware/VirtualBox", "Proxmox", "Hyper V"],
+    Programming : ["Powershell", "Python", "HTML/CSS", "Bash"],
+    Sysadmin : ["Active Directory", "Cisco", "Wireshark"],
+    Virtualization : ["Docker", "Vmware/VirtualBox", "Proxmox"],
   }
 };
 ```
