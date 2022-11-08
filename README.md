@@ -13,7 +13,7 @@
 - ✉️ Mail **cqban_pro@protonmail.me**
 
 ```py
-const Me = {
+const Cqban = {
   Personal: {
     Learning : ["Networks", "Programming", "Pentesting", "Web", "SysAdmin",],
     Interest : ["Pwn", "Cloud", "Forensic", "Cryptography", "Steganography"],
@@ -21,8 +21,8 @@ const Me = {
     FavouriteOS: "Kali",
   },
   Skills: {
-    Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster", "and more ..."],
-    Programming : ["Powershell", "Python", "HTML/CSS", "Bash"],
+    Pentesting : ["Metasploit", "Burp Suite", "SQLMap", "gobuster", "Nmap", "and some others.."],
+    Programming : ["Powershell", "Python", "JavaScript", "HTML/CSS", "Bash", "Batch"],
     Sysadmin : ["Active Directory", "Cisco", "Wireshark"],
     Virtualization : ["Docker", "Vmware/VirtualBox", "Proxmox"],
   }
