@@ -21,10 +21,10 @@ const Cqban = {
     FavouriteOS: "Kali",
   },
   Skills: {
-    Pentesting : ["Metasploit", "Burp Suite", "SQLMap", "gobuster", "Nmap", "and some others.."],
+    Pentesting : ["Metasploit", "Burp Suite", "SQLMap", "gobuster", "Nmap", "UFOBins", "and more.."],
     Programming : ["Powershell", "Python", "JavaScript", "HTML/CSS", "Bash", "Batch"],
     Sysadmin : ["Active Directory", "Cisco", "Wireshark"],
-    Virtualization : ["Docker", "Vmware/VirtualBox", "Proxmox"],
+    Virtualization : ["Docker", "Vmware", "VirtualBox", "Proxmox"],
   }
 };
 ```
