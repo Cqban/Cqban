@@ -22,7 +22,7 @@ const Cqban = {
   },
   Skills: {
     Pentesting : ["Metasploit", "Burp Suite", "SQLMap", "gobuster", "Nmap", "GTFOBins", "and more.."],
-    Programming : ["Powershell", "Python", "JavaScript", "HTML/CSS", "Bash", "Batch"],
+    Programming : ["Powershell", "Python", "JavaScript", "HTML/CSS", "Bash"],
     Sysadmin : ["Active Directory", "Cisco", "Wireshark"],
     Virtualization : ["Docker", "Vmware", "VirtualBox", "Proxmox"],
   }
