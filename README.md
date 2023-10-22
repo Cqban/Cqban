@@ -6,7 +6,7 @@
 ### About me :
 - 🚩 French Infosec/Cybersecurity Enthusiast.
 - 💻 Passionate about Reconnaissance, Pentesting, Networking.
-- 📖 currently studying in BUT Networks and Telecommunications 
+- 📖 currently studying in BUT2 Networks and Telecommunications with a Cybersecurity specialization
 - 🔍 Looking forward to be a <strong>Pentester</strong>
 
 ### Contact :
@@ -16,15 +16,15 @@
 const Cqban = {
   Personal: {
     Learning : ["Networks", "Programming", "Pentesting", "Web", "SysAdmin",],
-    Interest : ["Pwn", "Cloud", "Forensic", "Cryptography", "Steganography"],
+    Interests : ["Cloud", "Quantum physics", "Cryptography", "Networking"],
     Project : ["CqbanCTF"],
     FavouriteOS: "Kali",
   },
   Skills: {
-    Pentesting : ["Metasploit", "Burp Suite", "SQLMap", "gobuster", "Nmap", "GTFOBins", "and more.."],
-    Programming : ["Powershell", "Python", "JavaScript", "HTML/CSS", "Bash"],
-    Sysadmin : ["Active Directory", "Cisco", "Wireshark"],
-    Virtualization : ["Docker", "Vmware", "VirtualBox", "Proxmox"],
+    Pentesting : ["WebApp", "Networks", "Databases", "AD Environments", "and more.."],
+    Programming : ["Powershell", "Python", "JavaScript", "HTML/CSS", "Bash", "PHP"],
+    Sysadmin : ["Active Directory", "Cisco Devices", "Wireshark", "IPS/IDS"],
+    Virtualization : ["Docker", "Vmware", "VirtualBox", "Proxmox", "GNS3"],
   }
 };
 ```
