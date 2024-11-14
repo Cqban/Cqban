@@ -8,6 +8,7 @@
 - 💻 Passionate about Reconnaissance, Pentesting, Networking, AI.
 - 📖 Currently studying a Cyberdefense Engineering Degree
 - 🔍 Looking forward to be a <strong>Pentester</strong>
+- i use arch btw
 
 ```py
 const Cqban = {
