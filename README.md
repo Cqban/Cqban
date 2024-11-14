@@ -9,9 +9,6 @@
 - 📖 Currently studying a Cyberdefense Engineering Degree
 - 🔍 Looking forward to be a <strong>Pentester</strong>
 
-### Contact :
-- ✉️ Mail **cqban_pro@protonmail.me**
-
 ```py
 const Cqban = {
   Personal: {
