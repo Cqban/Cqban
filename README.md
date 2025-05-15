@@ -5,9 +5,9 @@
 
 ### About me :
 - 🚩 French Infosec/Cybersecurity Enthusiast.
-- 💻 Passionate about Pentesting, Networking, Web3, AI.
+- 💻 Passionate about Pentesting, Active Directory, Networking & AI.
 - 📖 Currently studying a Cyberdefense Engineering Degree
-- i use arch btw
+- i would kill for netexec
 
 ### 📊 Github Stats :
 
