@@ -4,9 +4,7 @@
 # Welcome to my Github Page.
 
 ### About me :
-- 🚩 French Infosec/Cybersecurity Enthusiast.
-- 💻 Passionate about Pentesting, Active Directory, Networking & AI.
-- 📖 Currently studying a Cyberdefense Engineering Degree
+- 🚩 Active Directory Pentesting Enthusiast.
 - i would kill for netexec
 
 ### 📊 Github Stats :
