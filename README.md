@@ -4,6 +4,6 @@
 # Welcome to my Github Page.
 
 ### About me :
-- 🚩 Active Directory Pentesting Enthusiast.
-- i would kill for netexec
+- 🚩 AD Pentesting Enthusiast.
+- i'd kill for netexec
 
