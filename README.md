@@ -5,5 +5,5 @@
 
 ### About me :
 - 🚩 AD Pentesting Enthusiast.
-- i'd kill for netexec
+- Red Team Operator I 
 
